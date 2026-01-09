@@ -86,7 +86,7 @@ Join our official WhatsApp Channel:
 https://whatsapp.com/channel/0029VbBB6SvBVJkwluyUVQ1E
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+https://github.com/dark-nick-10/DN-BOT
 
 ——————
 
@@ -122,7 +122,7 @@ https://whatsapp.com/channel/0029VbBB6SvBVJkwluyUVQ1E
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+https://github.com/dark-nick-10/DN-BOT
 
 > *© Powered by Your Nick*
 Stay cool and hack smart. ✌🏻*`;
